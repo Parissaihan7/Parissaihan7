@@ -7,12 +7,12 @@
 - 🎇I'm looking for a palcment as a fresher.
 - 🤷‍♂️Ask me about Tech.
 - 🙋‍♂️How to reach me:
-<br/>[<img src="">](link)
+<br/>[<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">](link)
 - 🤩Pronouns: KeyTech.
 - 📐 FUN fact: I'm a Maths Teacher.
 
 **I code in** <br/>
 <img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/>
 
-**Tools I Use** <br/>
+**IDE & Tools I Use** <br/>
 <img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/>
