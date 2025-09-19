@@ -7,7 +7,7 @@
 - 🎇I'm looking for a palcment as a fresher.
 - 🤷‍♂️Ask me about Tech.
 - 🙋‍♂️How to reach me:
-<br/>[<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">](link)
+<br/>[<img src="[https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white](https://cdn-icons-png.freepik.com/256/174/174857.png?semt=ais_white_label)">](link)
 - 🤩Pronouns: KeyTech.
 - 📐 FUN fact: I'm a Maths Teacher.
 
