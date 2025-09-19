@@ -4,5 +4,15 @@
 - 🎓 UG - B.Sc. (Hons) Computer Science – Software Engineering.
 - 💻 Currently learning DSA, React and Integratin AI to my workflow.
 - 🙋‍♂️ Student at Kingston Univercity.
+- 🎇I'm looking for a palcment as a fresher.
+- 🤷‍♂️Ask me about Tech.
+- 🙋‍♂️How to reach me:
+<br/>[<img src="">](link)
+- 🤩Pronouns: KeyTech.
 - 📐 FUN fact: I'm a Maths Teacher.
--  Socil Presence
+
+##I code in
+<img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/>
+
+##Tools I Use
+<img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/>
