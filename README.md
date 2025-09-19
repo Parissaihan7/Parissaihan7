@@ -5,7 +5,7 @@
 - 💻 Currently learning DSA, React and Integratin AI to my workflow.
 - 🙋‍♂️ Student at Kingston Univercity.
 - 🎇I'm looking for a palcment as a fresher.
-- 🤷‍♂️Ask me about Tech.  
+- 🤷‍♂️Ask me about Tech.    
 - 🙋‍♂️How to reach me:
 <br/>[<img width="50" height="50" src="https://cdn-icons-png.freepik.com/256/174/174857.png?semt=ais_white_label">](https://www.linkedin.com/in/parissaihan7/)
 - 🤩Pronouns: KeyTech.
