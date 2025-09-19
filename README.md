@@ -11,8 +11,8 @@
 - 🤩Pronouns: KeyTech.
 - 📐 FUN fact: I'm a Maths Teacher.
 
-##I code in
+**I code in** <br/>
 <img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/>
 
-##Tools I Use
+**Tools I Use** <br/>
 <img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/><img height="50" width="50" src=""/>
